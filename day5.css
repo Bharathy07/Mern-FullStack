@@ -1,0 +1,15 @@
+.box{
+    color: white;
+    height:700px;
+    background-image: url(assets/todolistbg.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: left;
+}
+.button1{
+    color: white;
+    background-color:orange;
+}
+.line{
+    text-decoration: underline;
+}
